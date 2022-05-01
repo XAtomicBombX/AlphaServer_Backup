@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-04-18 20:49:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-04-18 21:03:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest_hills": "2022-04-18 20:49:12 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
